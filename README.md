@@ -138,6 +138,7 @@ Body:
   "senha": "123456"
 }
 
+---
 📍 Tarefa
 Criar tarefa
 
@@ -210,5 +211,6 @@ src/main/java
 
 Gabriel Vereda
 Desenvolvedor • Estudante SENAI – Desenvolvimento de Sistemas
+
 
 
