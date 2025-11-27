@@ -169,16 +169,20 @@ MySQL
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/seu-repo.git
+git clone [https://github.com/SEU-USUARIO/seu-repo.git](https://github.com/BielVereda/ToDo_Application.git)
 
 ---
 Configure o application.properties:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/todolist
+spring.application.name=ToDo
+
+spring.datasource.url=jdbc:mysql://localhost:3306/gabriel
 spring.datasource.username=root
-spring.datasource.password=senha
+spring.datasource.password=root
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+server.port = 8084
 
 ---
 Rode o projeto:
@@ -206,3 +210,4 @@ src/main/java
 
 Gabriel Vereda
 Desenvolvedor • Estudante SENAI – Desenvolvimento de Sistemas
+
