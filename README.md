@@ -28,12 +28,12 @@ Uma API REST para gerenciamento de usuários e tarefas, construída com Spring B
 
 Este projeto é uma API estilo To-Do List, permitindo:
 
-✔ Cadastro de usuários
-✔ Criação e gerenciamento de tarefas
-✔ Associação de tarefas a usuários
-✔ Registro de datas de criação e finalização
-✔ Validações com DTO e Bean Validation
-✔ Padrão RESTful organizado
+-  Cadastro de usuários
+- Criação e gerenciamento de tarefas
+- Associação de tarefas a usuários
+- Registro de datas de criação e finalização
+- Validações com DTO e Bean Validation
+- Padrão RESTful organizado
 
 O objetivo é aplicar os conceitos de uma API com persistência, boas práticas e arquitetura limpa utilizando Spring Boot + JPA.
 
@@ -210,4 +210,5 @@ src/main/java
 
 Gabriel Vereda
 Desenvolvedor • Estudante SENAI – Desenvolvimento de Sistemas
+
 
